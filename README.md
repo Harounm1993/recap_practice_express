@@ -3,18 +3,23 @@
 ## Task 1 - Install node modules.
 
 You know the drill.
+//done
 
 ## Task 2 - Input environment variables.
 
 You've done this enough times by now - if it hasn't worked before, then this will be the day! Create a .env file at the top level of this repository. Using the .env.example template, input your database credentials accordingly.
+//done
 
 ## Task 3 - Create and populate your table.
 
 The scripts are already written for you, wahoo! Go find the appropriate script and run it!
+//done
 
 ## Task 4 - Write the request handlers.
 
 All of the models that interact with your new database are already written. However, your SOCPetsRouter is missing its request handlers. It's time to sort that out. Go to routes/pets.js for further instructions.
+
+//midway- adding corrects paths
 
 ## Task 5 - Test 'judgePet' function.
 
